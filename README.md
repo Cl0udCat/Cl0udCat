@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cl0udCat
 - 👀 I’m interested in web development and desktop apps
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
